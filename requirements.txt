@@ -5,5 +5,4 @@ ipympl
 ipyvolume
 scipy
 voila
-glob
 IPython.display
