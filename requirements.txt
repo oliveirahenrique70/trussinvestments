@@ -5,3 +5,4 @@ ipympl
 ipyvolume
 scipy
 voila
+datetime
